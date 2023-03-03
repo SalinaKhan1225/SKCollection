@@ -674,7 +674,7 @@ section {
 }
 
 .footer .footer-container {
-  background: var(--white-color);
+  background: white;
   padding: 2rem;
 }
 
@@ -694,21 +694,21 @@ section {
 }
 
 .footer .footer-container .box-container .box h3 {
-  color: var(--orange);
+  color: var(--dark-color);
   font-size: 2.5rem;
   padding: 1rem 0;
 }
 
 .footer .footer-container .box-container .box a {
   display: block;
-  color: var(--black-color);
+  color: var(--dark-color);
   font-size: 1.7rem;
   padding: 1rem 0;
   font-weight: 300;
 }
 
 .footer .footer-container .box-container .box a:hover {
-  color: var(--orange);
+  color: var(--light-color);
 }
 
 .footer .footer-container .box-container .box img {
@@ -720,12 +720,12 @@ section {
   margin-top: 2rem;
   padding-top: 2rem;
   border-top: 0.1rem solid var(--light-color);
-  color: var(--black-color);
+  color: var(--dark-color);
   text-align: center;
 }
 
 .footer .footer-container .credit span {
-  color: var(--black);
+  color: var(--dark-color);
 }
 
 .footer .footer-container .share {
@@ -747,14 +747,14 @@ section {
   line-height: 4rem;
   border-radius: .5rem;
   font-size: 2rem;
-  color: var(--black);
+  color: var(--dark-color);
   margin-right: .2rem;
   background: #eee;
   text-align: center;
 }
 
 .footer .footer-container .share a:hover {
-  background: var(--black);
+  background: var(--light-color);
   color: var(--green);
 }
 
